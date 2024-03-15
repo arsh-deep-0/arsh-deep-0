@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" width="100%">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/arshdeep-singh-a57444226/">
@@ -40,12 +40,22 @@
   ---
   
   ### :fire: My Stats :
+
+  <div align="center" width="100%">
+    <div width="40%">
+      
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arsh-deep-0&theme=dark&background=000000)](https://git.io/streak-stats)
+    </div>
+    
+  <div width="40%">
+    
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-deep-0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
+    
+
+  </div>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arsh-deep-0&theme=dark&background=000000)](https://git.io/streak-stats)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-deep-0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
